@@ -1,10 +1,10 @@
-# Ella and Alexxy Shell
+# Kosiso and Destiny
 
 ![alt text](https://s3.amazonaws.com/intranet-projects-files/holbertonschool-low_level_programming/235/shell.jpeg)
 
 ### Description
 
-Ella and Alexxy Shell is a simple UNIX command interpreter that replicates functionalities of the simple shell (sh). Additional functions are also included. This program was written entirely in C as a milestone project for ALX Africa Software Engineering.
+Kosiso and Destiny is a simple UNIX command interpreter that replicates functionalities of the simple shell (sh). Additional functions are also included. This program was written entirely in C as a milestone project for ALX Africa Software Engineering.
 
 ### Installation
 
@@ -40,8 +40,3 @@ Our shell has support for the following built-in commands:
 | unsetenv [var]      | Remove an environment variable.                                                           |
 | cd [dir]            | Change the directory.                                                                     |
 | help [built-in]     | Read documentation for a built-in.                                                        |
-
-
-### Credits
-
-All code written by [Ella](https://github.com/EllaLawrie) and [Alexxy](https://github.com/Lexxyla).
